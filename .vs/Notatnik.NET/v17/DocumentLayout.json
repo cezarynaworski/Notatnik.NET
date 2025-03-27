@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\710_300635\\OneDrive - Apator S.A\\Dokumenty\\Visual Studio 2022\\Notatnik.NET\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{350537C1-4AB6-40E9-98C6-C20458AA81C6}|Notatnik.NET\\Notatnik.NET.csproj|c:\\users\\710_300635\\onedrive - apator s.a\\dokumenty\\visual studio 2022\\notatnik.net\\notatnik.net\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{350537C1-4AB6-40E9-98C6-C20458AA81C6}|Notatnik.NET\\Notatnik.NET.csproj|solutionrelative:notatnik.net\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350537C1-4AB6-40E9-98C6-C20458AA81C6}|Notatnik.NET\\Notatnik.NET.csproj|C:\\Users\\710_300635\\OneDrive - Apator S.A\\Dokumenty\\Visual Studio 2022\\Notatnik.NET\\notatnik.net\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{350537C1-4AB6-40E9-98C6-C20458AA81C6}|Notatnik.NET\\Notatnik.NET.csproj|solutionrelative:notatnik.net\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350537C1-4AB6-40E9-98C6-C20458AA81C6}|Notatnik.NET\\Notatnik.NET.csproj|c:\\users\\710_300635\\onedrive - apator s.a\\dokumenty\\visual studio 2022\\notatnik.net\\notatnik.net\\youtube_icon-icons.com_66802.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{350537C1-4AB6-40E9-98C6-C20458AA81C6}|Notatnik.NET\\Notatnik.NET.csproj|solutionrelative:notatnik.net\\youtube_icon-icons.com_66802.ico||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350537C1-4AB6-40E9-98C6-C20458AA81C6}|Notatnik.NET\\Notatnik.NET.csproj|C:\\Users\\710_300635\\OneDrive - Apator S.A\\Dokumenty\\Visual Studio 2022\\Notatnik.NET\\notatnik.net\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{350537C1-4AB6-40E9-98C6-C20458AA81C6}|Notatnik.NET\\Notatnik.NET.csproj|solutionrelative:notatnik.net\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{350537C1-4AB6-40E9-98C6-C20458AA81C6}|Notatnik.NET\\Notatnik.NET.csproj|C:\\Users\\710_300635\\OneDrive - Apator S.A\\Dokumenty\\Visual Studio 2022\\Notatnik.NET\\notatnik.net\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{350537C1-4AB6-40E9-98C6-C20458AA81C6}|Notatnik.NET\\Notatnik.NET.csproj|solutionrelative:notatnik.net\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Notatnik.NET||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 301,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Youtube_icon-icons.com_66802.ico - Icon [128x128, 32 bit, BMP]",
+              "DocumentMoniker": "C:\\Users\\710_300635\\OneDrive - Apator S.A\\Dokumenty\\Visual Studio 2022\\Notatnik.NET\\Notatnik.NET\\Youtube_icon-icons.com_66802.ico",
+              "RelativeDocumentMoniker": "Notatnik.NET\\Youtube_icon-icons.com_66802.ico",
+              "ToolTip": "C:\\Users\\710_300635\\OneDrive - Apator S.A\\Dokumenty\\Visual Studio 2022\\Notatnik.NET\\Notatnik.NET\\Youtube_icon-icons.com_66802.ico - Icon [128x128, 32 bit, BMP]",
+              "RelativeToolTip": "Notatnik.NET\\Youtube_icon-icons.com_66802.ico - Icon [128x128, 32 bit, BMP]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001525|",
+              "WhenOpened": "2025-03-25T14:53:22.606Z",
+              "EditorCaption": " - Icon [128x128, 32 bit, BMP]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\710_300635\\OneDrive - Apator S.A\\Dokumenty\\Visual Studio 2022\\Notatnik.NET\\Notatnik.NET\\App.xaml",
+              "RelativeDocumentMoniker": "Notatnik.NET\\App.xaml",
+              "ToolTip": "C:\\Users\\710_300635\\OneDrive - Apator S.A\\Dokumenty\\Visual Studio 2022\\Notatnik.NET\\Notatnik.NET\\App.xaml",
+              "RelativeToolTip": "Notatnik.NET\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-24T15:04:40.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\710_300635\\OneDrive - Apator S.A\\Dokumenty\\Visual Studio 2022\\Notatnik.NET\\Notatnik.NET\\App.config",
+              "RelativeDocumentMoniker": "Notatnik.NET\\App.config",
+              "ToolTip": "C:\\Users\\710_300635\\OneDrive - Apator S.A\\Dokumenty\\Visual Studio 2022\\Notatnik.NET\\Notatnik.NET\\App.config",
+              "RelativeToolTip": "Notatnik.NET\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-24T15:04:39.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\710_300635\\OneDrive - Apator S.A\\Dokumenty\\Visual Studio 2022\\Notatnik.NET\\Notatnik.NET\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Notatnik.NET\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\710_300635\\OneDrive - Apator S.A\\Dokumenty\\Visual Studio 2022\\Notatnik.NET\\Notatnik.NET\\MainWindow.xaml",
+              "RelativeToolTip": "Notatnik.NET\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-03-21T14:02:18.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\710_300635\\OneDrive - Apator S.A\\Dokumenty\\Visual Studio 2022\\Notatnik.NET\\Notatnik.NET\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "Notatnik.NET\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\710_300635\\OneDrive - Apator S.A\\Dokumenty\\Visual Studio 2022\\Notatnik.NET\\Notatnik.NET\\MainWindow.xaml.cs",
+              "RelativeToolTip": "Notatnik.NET\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAQwF0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T14:02:18.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Notatnik.NET",
+              "DocumentMoniker": "C:\\Users\\710_300635\\OneDrive - Apator S.A\\Dokumenty\\Visual Studio 2022\\Notatnik.NET\\Notatnik.NET\\Notatnik.NET.csproj",
+              "RelativeDocumentMoniker": "Notatnik.NET\\Notatnik.NET.csproj",
+              "ToolTip": "C:\\Users\\710_300635\\OneDrive - Apator S.A\\Dokumenty\\Visual Studio 2022\\Notatnik.NET\\Notatnik.NET\\Notatnik.NET.csproj",
+              "RelativeToolTip": "Notatnik.NET\\Notatnik.NET.csproj",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG2SURBVDhPhVJNSwJRFL0zCm5bRT/BWQVCv8DdgAyKqC1d16IWoqhlUQbRJqJlLnUlumshYiD\u002BhWhRf8APcKPO0Hy85t55M81MWQcO77577j3vznsjQAij0eiIMfbIt1uRTCYFsAv59hvD4ZAtl0viYrEgzudzNpvN2HQ6ZaivVivWbrepWaQuHyzLIuPNZgOaptG6Xq\u002BJqqqSjlAUBQaDAfvVQBAEEEXRYyQSoRXzqE8mEyLGWw3cJr8J5iVJgng8DolE4m\u002BDcKPfDOnWRinywTRNr7HX6/FsELIskynWCsrD68\u002BnCOHpcJcuFk9EYhyLxWA8HkP00xTg\u002BUQiIQycRL5/g36/zzMOUqkUrdgjarrzL5VKJTAt0yPuEajncjnIZrOQyWQgnU57F0yf6xogKuUKGHYS6QJ1/N5ut0t3gtNgs3sHAYOLq0uoV2u2gcEzjgGeWCgUIJ/P0zTuy9ArqDqvtKEbJtQa53Bx1uAZANQ7nQ7fOUAjd4KofwL35HK9CrfXNxSjXiwWAy/gX2Hv9N2OtwN1u5DZpzHDMJiu60SMW60WE3aOP/79D\u002B72X3gURLPZPPgCe1k8ivVYYD8AAAAASUVORK5CYII=",
+              "WhenOpened": "2025-03-21T15:11:52.719Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 99,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1883,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
